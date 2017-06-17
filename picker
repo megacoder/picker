@@ -1,0 +1,2 @@
+#!/bin/zsh
+exec dmenu_run -b -p 'Run> ' -nb '#203070' -nf '#d3e6e6' -sb '#3040A0' -sf '#e3f6f6' "$@"
